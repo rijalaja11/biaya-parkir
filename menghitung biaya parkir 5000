@@ -17,6 +17,6 @@ public class BiayaParkir {
         int totalBiaya = lamaParkir * biayaParkir;
 
         System.out.println("Lama Parkir: " + lamaParkir + " jam");
-        System.out.println("Total Biaya: Rp 30000" + totalBiaya);
+        System.out.println("Total Biaya: Rp 30000");
     }
 }
